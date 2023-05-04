@@ -12,7 +12,7 @@
 
 #include<stdio.h>
 #include<stdlib.h>
-/* 필요한 헤더파일 추가 if necessary */
+
 
 
 typedef struct Node { /* 이중 연결 리스트의 노드를 정의 */
